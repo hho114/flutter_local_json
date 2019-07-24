@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 This is Example app showing implementation which loads up a json file from a local folder.
 
-        <img src="demo_img.gif" height="600em" />
+<img src="demo_img.gif" height="600em" />
