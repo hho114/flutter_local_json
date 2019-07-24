@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 This is sample app showing implementation which loads up a json file from a local folder, and using Serialization method.
 
-There are two type of parsing Json local data in Flutter; Serialization and Deserialization
+There are two type of parsing Json local data in Flutter; Serialization and Deserialization.
 Serialization simply means writing the data(which might be in an object) as a string,
 and Deserialization is the opposite of that. It takes the raw data and reconstructs the object model.
 To learn more about Parsing Json, you can read this article, [Parsing complex JSON in Flutter](https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51)
