@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-This is a sample app which using the local json data
+This is Example app showing implementation which loads up a json file from a local folder.
 
-![](demo_img.gif)
+        <img src="demo_img.gif" height="600em" />
